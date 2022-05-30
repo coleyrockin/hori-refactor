@@ -12,7 +12,11 @@ Gave imgs descriptions
 Fixed search engine optimization nav (Wasnt working)
 
 
+
 https://github.com/coleyrockin  -Repo for project is "hori-refactor"
 https://coleyrockin.github.io/hori-refactor/
 
-## Worked with David G, Khaylla H, and Amanda
+## Worked with 
+David G  https://github.com/woahdavid
+Khaylla H https://github.com/bekind-rewind
+Amanda
